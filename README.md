@@ -10,4 +10,6 @@
 
 ```
 https://raw.githubusercontent.com/ronghms/Rong.Configs/main/FireAlarmDevices.json
+
+https://ghproxy.net/https://raw.githubusercontent.com/ronghms/Rong.Configs/main/FireAlarmDevices.json
 ```
