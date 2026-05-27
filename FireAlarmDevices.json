@@ -1,0 +1,234 @@
+{
+  "devices": [
+    {
+      "name": "火灾显示盘",
+      "type": "General",
+      "addressCountPerUnit": 0,
+      "cableType": "F|P",
+      "displayOrder": -1,
+      "cellBlock": "R09-01火灾显示盘",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002778"]
+    },
+    {
+      "name": "短路隔离器",
+      "type": "General",
+      "addressCountPerUnit": 0,
+      "cableType": "F|P",
+      "displayOrder": 0,
+      "cellBlock": "R09-01短路隔离器",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002776"]
+    },
+    {
+      "name": "感烟火灾探测器",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 1,
+      "cellBlock": "R09-01感烟火灾探测器",
+      "footerBlock": "",
+      "blockNames": ["$Equip$00002649"]
+    },
+    {
+      "name": "感温火灾探测器",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 2,
+      "cellBlock": "R09-01感温火灾探测器",
+      "footerBlock": "",
+      "blockNames": ["$Equip$00002648"]
+    },
+    {
+      "name": "消火栓按钮",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 3,
+      "cellBlock": "R09-01消火栓按钮",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002656"]
+    },
+    {
+      "name": "手动火灾报警按钮",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 4,
+      "cellBlock": "R09-01手动火灾报警按钮",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002657", "$equip$00002655"]
+    },
+    {
+      "name": "火灾声光警报器",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F|P",
+      "displayOrder": 5,
+      "cellBlock": "R09-01火灾声光警报器",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002679"]
+    },
+    {
+      "name": "非消防切电",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F|P",
+      "displayOrder": 8,
+      "cellBlock": "R09-01非消防切电",
+      "footerBlock": "",
+      "blockNames": []
+    },
+    {
+      "name": "防火卷帘联动",
+      "type": "General",
+      "addressCountPerUnit": 3,
+      "cableType": "F|P",
+      "displayOrder": 9,
+      "cellBlock": "R09-01防火卷帘模块组",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002770"]
+    },
+    {
+      "name": "排烟窗、挡烟垂壁联动",
+      "type": "General",
+      "addressCountPerUnit": 2,
+      "cableType": "F|P",
+      "displayOrder": 10,
+      "cellBlock": "R09-01排烟窗、挡烟垂壁模块组",
+      "footerBlock": "",
+      "blockNames": ["$equip$00003288"]
+    },
+    {
+      "name": "加压送风口",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F|P",
+      "displayOrder": 11,
+      "cellBlock": "R09-01加压送风口",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002802"]
+    },
+    {
+      "name": "电动排烟口",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F|P",
+      "displayOrder": 12,
+      "cellBlock": "R09-01电动排烟口",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002413"]
+    },
+    {
+      "name": "70℃防火阀",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 13,
+      "cellBlock": "R09-0170℃防火阀",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002402"]
+    },
+    {
+      "name": "280℃防火阀",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 14,
+      "cellBlock": "R09-01280℃防火阀",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002403", "$equip$00002404"]
+    },
+    {
+      "name": "消防风机联动",
+      "type": "MultiLine",
+      "addressCountPerUnit": 6,
+      "cableType": "F|P|K",
+      "displayOrder": 15,
+      "cellBlock": "R09-01消防风机联动",
+      "footerBlock": "R09-02消防风机联动",
+      "blockNames": ["$equip_U$10000101"]
+    },
+    {
+      "name": "湿干式报警阀",
+      "type": "General",
+      "addressCountPerUnit": 3,
+      "cableType": "F",
+      "displayOrder": 16,
+      "cellBlock": "R09-01湿干式报警阀",
+      "footerBlock": "",
+      "blockNames": ["$equip$00003103"]
+    },
+    {
+      "name": "水流指示器",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 17,
+      "cellBlock": "R09-01水流指示器",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002792"]
+    },
+    {
+      "name": "水流信号阀",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 18,
+      "cellBlock": "R09-01水流信号阀",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002794"]
+    },
+    {
+      "name": "压力开关",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 19,
+      "cellBlock": "R09-01压力开关",
+      "footerBlock": "",
+      "blockNames": ["$equip$00002755"]
+    },
+    {
+      "name": "流量开关",
+      "type": "General",
+      "addressCountPerUnit": 1,
+      "cableType": "F",
+      "displayOrder": 20,
+      "cellBlock": "R09-01流量开关",
+      "footerBlock": "",
+      "blockNames": ["$equip$00003128"]
+    },
+    {
+      "name": "消防电话插孔",
+      "type": "Phone",
+      "addressCountPerUnit": 0,
+      "cableType": "FH",
+      "displayOrder": 21,
+      "cellBlock": "R09-01消防电话插孔",
+      "footerBlock": "R09-02消防电话",
+      "blockNames": ["$equip$00003132"]
+    },
+    {
+      "name": "消防电话分机",
+      "type": "Phone",
+      "addressCountPerUnit": 0,
+      "cableType": "FH",
+      "displayOrder": 22,
+      "cellBlock": "R09-01消防电话分机",
+      "footerBlock": "R09-02消防电话",
+      "blockNames": ["$equip$00002658"]
+    },
+    {
+      "name": "消防广播",
+      "type": "Broad",
+      "addressCountPerUnit": 0,
+      "cableType": "PA",
+      "displayOrder": 23,
+      "cellBlock": "R09-01消防广播",
+      "footerBlock": "R09-02消防广播",
+      "blockNames": ["$equip$00002341", "$equip$00002984"]
+    }
+  ]
+}
